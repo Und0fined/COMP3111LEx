@@ -1,2 +1,2 @@
-# COMP3111LEx **LAB1**
+# COMP3111LEx **LAB1 Tasks**
 ![](./IMG-screenShot.png)
