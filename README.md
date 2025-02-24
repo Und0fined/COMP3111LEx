@@ -1,2 +1,2 @@
-# COMP3111LEx **LAB1**
+# COMP3111LEx **LABs**
 ![](./IMG-screenShot.png)

@@ -1,0 +1,15 @@
+package Lab2c;
+
+
+interface Chargeable{
+    public void charge();
+}
+
+public class Charger {
+    public void charge(Chargeable c){
+        c.charge();
+    }
+    public void charge(MobileComputer mc){
+        mc.charge();
+    }
+}
